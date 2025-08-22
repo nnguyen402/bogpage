@@ -1,2 +1,2 @@
 # bogpage
-Bits of Good introductory page
+Bits of Good Developer Bootcamp introductory page by Nathan Nguyen
